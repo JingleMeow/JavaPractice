@@ -1,4 +1,4 @@
-package dataStructures.StackAndQueue;
+package dataStructures.stackAndQueue;
 
 public interface Stack<E> {
     E push(E item);

@@ -1,4 +1,4 @@
-package dataStructures.StackAndQueue;
+package dataStructures.stackAndQueue;
 
 public interface Deque<E> {
     E offerFirst(E item);

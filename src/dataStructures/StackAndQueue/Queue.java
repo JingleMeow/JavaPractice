@@ -1,4 +1,4 @@
-package dataStructures.StackAndQueue;
+package dataStructures.stackAndQueue;
 
 public interface Queue<E> {
     E offer(E item);

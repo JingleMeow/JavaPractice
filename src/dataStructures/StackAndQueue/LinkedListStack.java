@@ -1,4 +1,4 @@
-package dataStructures.StackAndQueue;
+package dataStructures.stackAndQueue;
 
 import dataStructures.ListNode;
 

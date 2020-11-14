@@ -1,4 +1,4 @@
-package dataStructures.StackAndQueue;
+package dataStructures.stackAndQueue;
 
 public class ArrayDeque<E> implements Deque<E> {
     private E[] array;

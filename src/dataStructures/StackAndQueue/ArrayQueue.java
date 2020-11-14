@@ -1,4 +1,4 @@
-package dataStructures.StackAndQueue;
+package dataStructures.stackAndQueue;
 
 public class ArrayQueue<E> implements Queue<E> {
     private E[] array;
